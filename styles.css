@@ -265,7 +265,7 @@ label.headline {
   border: 2px solid #b3b3b33b;
 }
 .search input::placeholder{
-  color: #b3b3b33b;
+  color: #000000;
 }
 .content .options{
   margin-top: 10px;
